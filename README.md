@@ -9,7 +9,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/restaurant-review-assignment.git
+git clone https://github.com/22koki/restaurant-review-assignment.git
 Setup Virtual Environment:
 
 bash
@@ -23,7 +23,7 @@ Install Dependencies:
 
 bash
 Copy code
-pip install -r requirements.txt
+
 Run Migrations:
 
 bash
@@ -38,7 +38,7 @@ Run the Application:
 
 bash
 Copy code
-python app.py
+
 Project Details
 Object Relationship Methods
 Review Class:
@@ -70,7 +70,6 @@ all_reviews(): Returns a list of strings with all the reviews for this restauran
 Contributing
 Feel free to contribute to this project by creating issues or submitting pull requests. Your feedback and contributions are welcome!
 
-This README template provides a starting point, and you can add more details based on your specific implementation and requirements.
 
 
 
