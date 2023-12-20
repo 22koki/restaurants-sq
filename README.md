@@ -9,35 +9,27 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/22koki/restaurant-review-assignment.git
+git clone https://github.com/22koki/restaurants-sq.git
 Setup Virtual Environment:
 
 bash
-Copy code
+
 cd restaurant-review-assignment
 python -m venv venv
 source venv/bin/activate  # On Linux/Mac
-# Or
-.\venv\Scripts\activate  # On Windows
-Install Dependencies:
 
-bash
-Copy code
 
 Run Migrations:
 
 bash
-Copy code
 alembic upgrade head
 Seed Database:
 
 bash
-Copy code
 python seeds.py
 Run the Application:
 
-bash
-Copy code
+
 
 Project Details
 Object Relationship Methods
